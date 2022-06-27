@@ -1,8 +1,8 @@
 # sobre mim
  - ola,me chamo Adrian Eduardo de Souza;
- -atualmente estudo em CECMPS;
- -atualmente estou aprendendo programacao de SCRATCH e JAVASCRIPT;
- -Facebook: Adrian Eduardo de Souza
+ - atualmente estudo em CECMPS;
+ - atualmente estou aprendendo programacao de SCRATCH e JAVASCRIPT;
+ - Facebook: Adrian Eduardo de Souza
 
 <!--
 **pichinquinha/pichinquinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
